@@ -10,7 +10,10 @@ The purpose of this project is to solve the list of problem 1.
 ```
 
 where:
-* Question **1** is the 
+* Question **1a** is the dijkstra algorithm implemented with array
+* Question **1b** is the dijkstra algorithm implemented with AVL tree
+* Question **1c** is the dijkstra algorithm implemented with fibonacci heap
+
 * Question **2a** is the fractional knapsack problem - O(nlogn)
 * Question **3** is the 
 
