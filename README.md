@@ -13,9 +13,14 @@ where:
 * Question **1a** is the dijkstra algorithm implemented with array
 * Question **1b** is the dijkstra algorithm implemented with AVL tree
 * Question **1c** is the dijkstra algorithm implemented with fibonacci heap
-
+* Question **1d** is the dijkstra algorithm implemented with buckets
+* Question **1e** is the dijkstra algorithm implemented with alpha tree
 * Question **2a** is the fractional knapsack problem - O(nlogn)
-* Question **3** is the 
+* Question **2b** is the fractional knapsack problem - O(n)
+* Question **2c** is the fractional knapsack problem - O(nˆ2)
+* Question **3a** is the polynomial multiplication - O(nˆ2)
+* Question **3b** is the polynomial multiplication - O(nˆlog3)
+* Question **3c** is the polynomial multiplication - O(nlogn)
 
 
 **Example**
